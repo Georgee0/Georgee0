@@ -23,15 +23,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/Php-20232A?style=for-the-badge&logo=php&logoColor=61DAFF)
-![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=61DDFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Databases & Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-2496ED?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-2496ED?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -53,17 +53,17 @@
 ## 🏗️ What I’m Currently Working On  
 
 - 🧭 Building real-time APIs for location-based services  
-- 🧰 Dockerizing Django + PostgreSQL environments for production  
-- 🚀 Hosting Django APIs on **Microsoft Azure**  
+- 🧰 Dockerizing Web apps + Database + MessageBroker environments for production  
+- 🚀 Hosting Web apps on **Microsoft Azure**  
 - 🧑‍💻 Learning advanced **DevOps and system scalability concepts**  
 
 ---
 
 ## 🌍 Let's Connect  
 
-📫 **Email:** [georgemoses.dev@gmail.com](mailto:georgemosescode@gmail.com)  
+📫 **Email:** [georgemosescode@gmail.com](mailto:georgemosescode@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/georgemoses](https://www.linkedin.com/in/george-moses-7a542121b/)  
-🐦 **Twitter/X:** [@georgemoses_](https://twitter.com/minicoder_)  
+🐦 **Twitter/X:** [@minicoder_](https://twitter.com/minicoder_)  
 💻 **Portfolio:** [georgemoses.dev](https://georgemoses.dev) *(Coming soon!)*  
 
 ---
