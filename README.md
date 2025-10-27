@@ -83,10 +83,11 @@
 
 ## ✨ Fun Facts  
 
-- 🧩 I enjoy debugging more than coding sometimes (weirdly satisfying 😅)  
+- 🧩 I enjoy debugging more than coding sometimes
 - 🧠 I believe clean architecture = clean mind  
 - 🎶 I code better with music in the background  
-- ☕ I enjoy building APIs then any other thing.  
+- ☕ I enjoy building APIs then any other thing
+- 👨🏾‍💻 Most of my commits are private 
 
 ---
 
