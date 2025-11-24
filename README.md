@@ -64,7 +64,7 @@
 📫 **Email:** [georgemosescode@gmail.com](mailto:georgemosescode@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/georgemoses](https://www.linkedin.com/in/george-moses-7a542121b/)  
 🐦 **Twitter/X:** [@minicoder_](https://twitter.com/minicoder_)  
-💻 **Portfolio:** [georgemoses.dev](https://georgemoses.dev) *(Coming soon!)*  
+<!--💻 **Portfolio:** [georgemoses.dev](https://georgemoses.dev) *(Coming soon!)* -->  
 
 ---
 <!--
