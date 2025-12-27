@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **George Moses**  
 
-🚀 **Software Developer | Full Stack Engineer | Problem Solver | Web3**  
+🚀 **Software Developer | Full Stack Engineer | Problem Solver |**  
 🎓 **B.Eng. Computer & Communication Engineering | Nigeria**  
 💻 Passionate about building scalable **web and mobile applications** with **Django & DRF, PHP, React, and React Native**  
 
