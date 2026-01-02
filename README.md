@@ -44,7 +44,7 @@
 🔹 **Multi-Platform Service Booking App** — Connecting customers with local providers using Django + React Native.  
 🔹 **Real-Time Location Tracking System** — Built using WebSocket, RabbitMQ, and MQTT for live tracking.  
 🔹 **Social Media API (Django REST)** — Featuring posts, likes, shares, and search/filter functionalities.  
-🔹 **E-Commerce Store** — Built with Django and React for seamless web and mobile experiences.  
+🔹 **E-Commerce Store** — Built with Django for seamless web and mobile experiences.  
 
 *(More projects pinned below 👇)*  
 
