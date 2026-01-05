@@ -8,7 +8,7 @@
 
 ## 🧠 About Me  
 
-💡 I’m a **results-driven developer** with over **4 years of experience** developing and hosting production-ready applications.  
+💡 I’m a **results-driven developer** with over **4 years of experience** developing production-ready applications.  
 💬 I love solving real-world problems with code and designing systems that scale beautifully.  
 📱 Currently building **a platform connecting service providers to customers** using **Django (Backend)** + **React Native (Mobile)**.  
 
