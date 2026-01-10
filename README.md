@@ -89,7 +89,7 @@
 - 🧠 I believe clean architecture = clean mind  
 - 🎶 I code better with music in the background  
 - ☕ I enjoy building RESTFUL APIs than any other thing
-- 👨🏾‍💻 Most of my commits are private.
+- 👨🏾‍💻 Most of my commits are private
 
 ---
 
