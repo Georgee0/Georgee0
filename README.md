@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **George Moses**  
+# 👋 Hi there, I'm **George Moses.**  
 
 🚀 **Software Developer | Full Stack Engineer | Problem Solver |
 **  
