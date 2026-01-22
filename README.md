@@ -55,8 +55,8 @@
 
 - 🧭 Building real-time APIs for location-based services  
 - 🧰 Dockerizing Web apps + Database + MessageBroker environments for production  
-<!-- 🚀 **Microsoft Azure** -->
 - 🧑‍💻 Learning advanced **DevOps and system scalability concepts**  
+<!-- 🚀 **Microsoft Azure** -->
 
 ---
 
