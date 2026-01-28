@@ -60,7 +60,7 @@
 
 ---
 
-## 🌍 Let's Connect  
+## 🌍 Let's Connect.
 
 📫 **Email:** [georgemosescode@gmail.com](mailto:georgemosescode@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/georgemoses](https://www.linkedin.com/in/george-moses-7a542121b/)  
