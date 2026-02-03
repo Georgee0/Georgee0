@@ -95,7 +95,7 @@
 
 ## 💬 Quote I Live By  
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
 
 ---
 <!--
