@@ -6,13 +6,13 @@
 💻 Passionate about building scalable **web and mobile applications** with **Django & DRF, PHP, React, and React Native**
 
 ---
-
+<!--
 ## 🧠 About Me  
 
 💡 I’m a **results-driven developer** with over **4 years of experience** developing production-ready applications.  
 💬 I love solving real-world problems with code and designing systems that scale beautifully.  
 📱 Currently building **a platform connecting service providers to customers** using **Django (Backend)** + **React Native (Mobile)**. 
-
+-->
 ---
 
 ## 🛠️ Tech Stack  
@@ -50,14 +50,14 @@
 *(More projects pinned below 👇)*  
 
 ---
-
+<!--
 ## 🏗️ What I’m Currently Working On
 
 - 🧭 Building real-time APIs for location-based services  
 - 🧰 Dockerizing Web apps + Database + MessageBroker environments for production  
 - 🧑‍💻 Learning advanced **DevOps and system scalability concepts**  
 <!-- 🚀 **Microsoft Azure** -->
-
+-->
 ---
 
 ## 🌍 Let's Connect.
@@ -82,7 +82,7 @@
 -->
 
 ---
-
+<!--
 ## ✨ Fun Facts  
 
 - 🧩 I enjoy debugging more than coding sometimes
@@ -90,7 +90,7 @@
 - 🎶 I code better with music in the background  
 - ☕ I enjoy building RESTFUL APIs than any other thing
 - 👨🏾‍💻 Most of my commits are private
-
+-->
 ---
 
 ## 💬 Quote I Live By  
