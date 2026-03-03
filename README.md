@@ -38,6 +38,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=internetexplorer&logoColor=white)
 
+<!--
 ---
 
 ## 🧩 Featured Projects  
@@ -47,10 +48,9 @@
 🔹 **Social Media API (Django REST)** — Featuring posts, likes, shares, and search/filter functionalities.  
 🔹 **E-Commerce Store** — Built with Django for seamless web and mobile experiences.  
 
-*(More projects pinned below 👇)*  
 
 ---
-<!--
+*(More projects pinned below 👇)*  
 ## 🏗️ What I’m Currently Working On
 
 - 🧭 Building real-time APIs for location-based services  
