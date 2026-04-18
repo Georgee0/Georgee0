@@ -61,28 +61,6 @@
 <!--💻 **Portfolio:** [georgemoses.dev](https://georgemoses.dev) *(Coming soon!)* -->  
 
 ---
-<!--
-## 🏆 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgemoses&show_icons=true&theme=radical" alt="George's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgemoses&theme=radical" alt="GitHub Streak" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgemoses&layout=compact&theme=radical" height="165em"/>
-</p>
--->
-
-<!--
-## ✨ Fun Facts  
-
-- 🧩 I enjoy debugging more than coding sometimes
-- 🧠 I believe clean architecture = clean mind  
-- 🎶 I code better with music in the background  
-- ☕ I enjoy building RESTFUL APIs than any other thing
-- 👨🏾‍💻 Most of my commits are private
--->
 ---
 
 ## 💬 Quote I Live By
