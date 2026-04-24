@@ -31,26 +31,6 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=internetexplorer&logoColor=white)
 
-<!--
----
-
-## 🧩 Featured Projects  
-
-🔹 **Multi-Platform Service Booking App** — Connecting customers with local providers using Django + React Native.  
-🔹 **Real-Time Location Tracking System** — Built using WebSocket, RabbitMQ, and MQTT for live tracking.  
-🔹 **Social Media API (Django REST)** — Featuring posts, likes, shares, and search/filter functionalities.  
-🔹 **E-Commerce Store** — Built with Django for seamless web and mobile experiences.  
-
-
----
-*(More projects pinned below 👇)*  
-## 🏗️ What I’m Currently Working On
-
-- 🧭 Building real-time APIs for location-based services  
-- 🧰 Dockerizing Web apps + Database + MessageBroker environments for production  
-- 🧑‍💻 Learning advanced **DevOps and system scalability concepts**  
-<!-- 🚀 **Microsoft Azure** -->
-
 ---
 
 ## 🌍 Let's Connect.
@@ -58,17 +38,6 @@
 📫 **Email:** [georgemosescode@gmail.com](mailto:georgemosescode@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/georgemoses](https://www.linkedin.com/in/george-moses-7a542121b/)  
 🐦 **Twitter/X:** [@minicoder_](https://twitter.com/minicoder_)  
-<!--💻 **Portfolio:** [georgemoses.dev](https://georgemoses.dev) *(Coming soon!)* -->  
 
 ---
 ---
-
-## 💬 Quote I Live By
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
----
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=georgemoses&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
--->
