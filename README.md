@@ -6,7 +6,6 @@
 💻 Passionate about building scalable **web and mobile applications** with **Django & DRF, PHP, React, and React Native**
 
 ---
----
 
 ## 🛠️ Tech Stack
 
