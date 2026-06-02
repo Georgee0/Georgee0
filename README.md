@@ -3,7 +3,7 @@
 🚀 **Software Developer | Full Stack Engineer | Problem Solver |
 **  
 🎓 **B.Eng. Computer & Communication Engineering | Nigeria**  
-💻 Passionate about building scalable **web and mobile applications** with **Django & DRF, PHP, React, and React Native**
+💻 Passionate about building scalable **web and mobile applications** with **Django & DRF, Laravel, React, and React Native**
 
 ---
 
@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!--[Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) -->
+[Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Databases & Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
